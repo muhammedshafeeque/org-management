@@ -1,0 +1,19 @@
+{
+  "name": "org-management",
+  "version": "1.0.0",
+  "description": "Organaization Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeralaTech/org-management.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeralaTech/org-management/issues"
+  },
+  "homepage": "https://github.com/KeralaTech/org-management#readme"
+}
