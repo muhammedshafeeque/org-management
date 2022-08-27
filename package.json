@@ -4,7 +4,9 @@
   "description": "Organaization Management System",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "cross-env NODE_ENV=development nodemon Server.js --time --node-args=\"-r dotenv-flow/config -r esm\"",
+    "start": "cross-env NODE_ENV=production nodemon Server.js --time --node-args=\"-r dotenv-flow/config -r esm\""
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,16 @@
   "bugs": {
     "url": "https://github.com/KeralaTech/org-management/issues"
   },
-  "homepage": "https://github.com/KeralaTech/org-management#readme"
+  "homepage": "https://github.com/KeralaTech/org-management#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "cross-env": "^7.0.3",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "joi": "^17.6.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.5.3",
+    "nodemon": "^2.0.19"
+  }
 }
