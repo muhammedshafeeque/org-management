@@ -16,13 +16,17 @@ The software will provide mony management system , members management sysrem , p
 
 We disided to use the given technologies to build this software 
 1 node js
+
 2 react js 
+
 3 Express js 
+
 4 MongoDb
 
 --------------------------
 Libraries 
 1 Mongoose 
+
 2 Matirial ui
 
 
