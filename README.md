@@ -9,3 +9,21 @@ All organaizations like youth club or political parties needs to manage their da
 
 This software is devoloping in MERN stack
 
+The software will provide mony management system , members management sysrem , public news feed , private news feed , bublic poling , internal election ,public blood database , internal  Blood databse  , digital minuts 
+
+
+--------------------------------
+
+Wedisided to use the given technologies to build this software 
+1 node js
+2 react js 
+3 Express js 
+4 MongoDb
+
+--------------------------
+Libraries 
+1 Mongoose 
+2 Matirial ui
+
+
+
