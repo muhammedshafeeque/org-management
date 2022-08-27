@@ -14,7 +14,7 @@ The software will provide mony management system , members management sysrem , p
 
 --------------------------------
 
-Wedisided to use the given technologies to build this software 
+We disided to use the given technologies to build this software 
 1 node js
 2 react js 
 3 Express js 
